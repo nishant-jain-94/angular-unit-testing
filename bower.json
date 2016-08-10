@@ -1,0 +1,21 @@
+{
+  "name": "angular-unit-testing",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Nishant Jain <nishantkumarajain@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "angular-mocks": "^1.5.8"
+  }
+}
