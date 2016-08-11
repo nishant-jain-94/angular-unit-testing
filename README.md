@@ -7,4 +7,4 @@ To run test cases, follow the steps given below:
 
 2. bower install
 
-3. karma start karma.conf.js
+3. /usr/bin/nodejs ./node_modules/karma/bin/karma start karma.conf.js
